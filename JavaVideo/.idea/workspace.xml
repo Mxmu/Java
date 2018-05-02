@@ -41,17 +41,44 @@
       <file leaf-file-name="ArrayMethodTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="190">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayMethodTest_1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayMethodTest_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest_1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayMethodTest_2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayMethodTest_3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayMethodTest_4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -68,8 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/WhileDemo.java" />
-        <option value="$PROJECT_DIR$/src/ForDemo.java" />
         <option value="$PROJECT_DIR$/src/ForDemo_1.java" />
         <option value="$PROJECT_DIR$/src/DoWhileDemo.java" />
         <option value="$PROJECT_DIR$/src/WhileForDemo.java" />
@@ -118,6 +143,9 @@
         <option value="$PROJECT_DIR$/src/ASCIIDemo.java" />
         <option value="$PROJECT_DIR$/src/ArrayMethodTest.java" />
         <option value="$PROJECT_DIR$/src/ArrayMethodTest_1.java" />
+        <option value="$PROJECT_DIR$/src/ArrayMethodTest_2.java" />
+        <option value="$PROJECT_DIR$/src/ArrayMethodTest_3.java" />
+        <option value="$PROJECT_DIR$/src/ArrayMethodTest_4.java" />
       </list>
     </option>
   </component>
@@ -142,7 +170,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -151,15 +178,11 @@
               <item name="JavaVideo" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaVideo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaVideo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaVideo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,12 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayMethodTest_1">
-    <configuration name="ASCIIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ASCIIDemo" />
-      <module name="javavideo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="Application.ArrayMethodTest_4">
     <configuration name="ArrayMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayMethodTest" />
       <module name="javavideo" />
@@ -198,13 +216,18 @@
       <module name="javavideo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LoopTest_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopTest_2" />
+    <configuration name="ArrayMethodTest_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMethodTest_2" />
       <module name="javavideo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LoopTest_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopTest_3" />
+    <configuration name="ArrayMethodTest_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMethodTest_3" />
+      <module name="javavideo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ArrayMethodTest_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMethodTest_4" />
       <module name="javavideo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -250,19 +273,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ASCIIDemo" />
-      <item itemvalue="Application.LoopTest_2" />
-      <item itemvalue="Application.LoopTest_3" />
       <item itemvalue="Application.ArrayMethodTest" />
       <item itemvalue="Application.ArrayMethodTest_1" />
+      <item itemvalue="Application.ArrayMethodTest_2" />
+      <item itemvalue="Application.ArrayMethodTest_3" />
+      <item itemvalue="Application.ArrayMethodTest_4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayMethodTest_4" />
+        <item itemvalue="Application.ArrayMethodTest_3" />
+        <item itemvalue="Application.ArrayMethodTest_2" />
         <item itemvalue="Application.ArrayMethodTest_1" />
         <item itemvalue="Application.ArrayMethodTest" />
-        <item itemvalue="Application.ASCIIDemo" />
-        <item itemvalue="Application.LoopTest_3" />
-        <item itemvalue="Application.LoopTest_2" />
       </list>
     </recent_temporary>
   </component>
@@ -287,11 +310,12 @@
       <workItem from="1524623248833" duration="1913000" />
       <workItem from="1524658863307" duration="2995000" />
       <workItem from="1524888157763" duration="3434000" />
+      <workItem from="1525162360689" duration="4906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45518000" />
+    <option name="totallyTimeSpent" value="50424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -310,7 +334,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12466488" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12600537" />
       <window_info anchor="right" id="Database" order="3" weight="0.3290735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -329,15 +353,15 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36201298" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10828026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36201298" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -347,13 +371,13 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.29707792" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,27 +392,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WhileForDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="34" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WhileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForDemo_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ForDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -711,17 +714,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayMethodTest_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
