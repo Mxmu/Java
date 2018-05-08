@@ -10,23 +10,20 @@ public class MyTest {
       //  int a=sc.nextInt();
         Queue q=new Queue(3);
        // System.out.println("所定义队列能存储的数有"+(a-1)+"个");
-        System.out.println("选择要实现的功能:");
-        System.out.println("1-入队    2-出队    其他数字-退出");
-        int b;
 
-                //=sc.nextInt();
-        while((b=sc.nextInt())!=0){
+
+        while(true){
+            System.out.println("选择要实现的功能:");
+            System.out.println("1-入队    2-出队    其他数字-退出");
+            int b=sc.nextInt();
             switch (b)
             {
                 case 1:
                     System.out.println("选择的是入队操作:");
-                    System.out.println("请输入要入队的元素,以#结束:");
-                    int c;
-                            //=sc.nextInt();
-                    while ((c = sc.nextInt()) != 0)
-                    {
-                        q.insert(c);
-                    }
+                    System.out.println("请输入要入队的元素:");
+                    int c=sc.nextInt();
+                    //while(c!=0){
+                        q.insert(c);//}
                     break;
                 case 2:
                     System.out.println("选择的是出队操作:");
@@ -35,7 +32,7 @@ public class MyTest {
                     System.out.println(d);
                     break;
                 default:
-                    break;
+                    return;
             }
         }
     }

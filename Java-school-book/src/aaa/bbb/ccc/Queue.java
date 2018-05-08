@@ -18,12 +18,12 @@ public class Queue {
         if((rear+1)%counter==front)
         {
             System.out.println("队满,不能入队");
-            //return ;
+
         }
-        else {
+
             Queue[rear] = x;
             rear = (rear + 1) % counter;
-        }
+
 
 
     }
@@ -33,13 +33,13 @@ public class Queue {
         if(rear==front)
         {
             System.out.println("队空,不能出队");
-            return 0;
+
         }
-        else {
+
             x = Queue[front];
             front = (front + 1) % counter;
             return x;
-        }
+
     }
 
 }
