@@ -5,6 +5,6 @@ public class Stack {
     private int size;
     public Stack()
     {
-        
+
     }
 }
