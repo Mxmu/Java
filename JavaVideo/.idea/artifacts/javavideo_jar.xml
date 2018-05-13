@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="javavideo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javavideo_jar</output-path>
+    <root id="root">
+      <element id="archive" name="javavideo.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/cn/itcase/sum/cn/itcase/sum/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="javavideo" />
+      </element>
+      <element id="directory" name="folder" />
+    </root>
+  </artifact>
+</component>
