@@ -8,7 +8,7 @@ public class ChuShi extends Employee implements VIP {
     }
     public void work()
     {
-        System.out.println("初始在炒菜");
+        System.out.println("厨师在炒菜");
     }
     public void services()
     {
