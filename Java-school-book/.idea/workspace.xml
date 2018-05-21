@@ -30,15 +30,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayListDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayListDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_20180508_8/ArrayListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="310">
+              <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#241#249#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComputeAvg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ComputeAvg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExceptionDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_20180522_4/ExceptionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -57,24 +78,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_20180508_3/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_20180508_3/Teacher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -169,6 +172,8 @@
         <option value="$PROJECT_DIR$/src/_20180508_7/StringBuffer.java" />
         <option value="$PROJECT_DIR$/src/_20180508_7/StringBuffer_.java" />
         <option value="$PROJECT_DIR$/src/_20180508_8/ArrayListDemo.java" />
+        <option value="$PROJECT_DIR$/src/ComputeAvg.java" />
+        <option value="$PROJECT_DIR$/src/_20180522_4/ExceptionDemo.java" />
       </list>
     </option>
   </component>
@@ -228,6 +233,12 @@
               <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_20180522_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="bbb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -282,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListDemo">
+  <component name="RunManager" selected="Application.ExceptionDemo">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_20180508_8.ArrayListDemo" />
       <module name="Java-school-book" />
@@ -294,6 +305,22 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="ComputeAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputeAvg" />
+      <module name="Java-school-book" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_20180522_4.ExceptionDemo" />
+      <module name="Java-school-book" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_20180522_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="MyTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_20180508_3.MyTest" />
       <module name="Java-school-book" />
@@ -301,28 +328,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_20180508_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MyTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_20180508.MyTest" />
-      <module name="Java-school-book" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_20180508.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MyTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_20180508_2.MyTest" />
-      <module name="Java-school-book" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_20180508_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,19 +385,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MyTest (3)" />
-      <item itemvalue="Application.MyTest (4)" />
       <item itemvalue="Application.MyTest (1)" />
       <item itemvalue="Application.StringBuffer_" />
       <item itemvalue="Application.ArrayListDemo" />
+      <item itemvalue="Application.ComputeAvg" />
+      <item itemvalue="Application.ExceptionDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionDemo" />
+        <item itemvalue="Application.ComputeAvg" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.StringBuffer_" />
         <item itemvalue="Application.MyTest (1)" />
-        <item itemvalue="Application.MyTest (4)" />
-        <item itemvalue="Application.MyTest (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -411,16 +416,15 @@
       <workItem from="1525366020693" duration="24000" />
       <workItem from="1525694517615" duration="14446000" />
       <workItem from="1525743767359" duration="7485000" />
-      <workItem from="1526917531515" duration="5984000" />
+      <workItem from="1526917531515" duration="9033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49976000" />
+    <option name="totallyTimeSpent" value="53025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -464,20 +468,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/EscapeRout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1406">
-          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Prime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -829,12 +819,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_20180508_8/ArrayListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state relative-caret-position="310">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#241#249#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputeAvg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_20180522_4/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
         </state>
       </provider>
     </entry>

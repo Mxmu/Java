@@ -2,7 +2,7 @@ package _20180508_8;
 import java.util.ArrayList;
 import java.util.Scanner;
 public class ArrayListDemo {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         ArrayList<String> array = new ArrayList<String>();
         Scanner sc = new Scanner(System.in);
         Scanner sc1 = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class ArrayListDemo {
         int n = sc.nextInt();
         System.out.println("输入一组字符串:");
         for (int i = 0; i < n; i++) {
-            System.out.print("输入第" + (i + 1) + "个字符串:");
+            System.out.println("输入第" + (i + 1) + "个字符串:");
             String str = sc1.nextLine();
             array.add(str);
         }
