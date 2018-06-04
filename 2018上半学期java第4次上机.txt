@@ -1,0 +1,29 @@
+第一题：
+将上次上机的第一题用抽象类来做，具体要求如下：
+建立交通工具抽象类TransTool，里面包含两个抽象方法void run()和void brake(),然后建立它的Bike、Car以及Bus子类, 在各个子类中重写void run()和void brake()方法，在实现各个方法时只要输出一个自己定义的对应的提示信息即可。最后建立一个测试类MyTest, 该类中包含主函数，测试运行时的多态性。
+
+第二题：
+将上次上机的第一题用接口来做，具体要求如下：
+建立交通工具接口TransTool，里面包含两个方法void run()和void brake(),然后分别建立Bike、Car以及Bus类实现该接口，在实现各个方法时只要输出一个自己定义的对应的提示信息即可。最后建立一个测试类MyTest, 该类中包含主函数，测试接口回调。
+
+第三题：
+
+建立学生Student接口，包含方法查询学号方法void get_Snumber()和查询班级方法void get_Class(),建立Teacher接口，包含方法查询工号方法void get_Wnumber()和查询工资方法void get_Salary(), 建立一个在职研究生类Poststudent，实现这两个接口。最后建立一个测试类MyTest, 该类中包含主函数，测试接口回调。
+
+第四题：
+将上次上机的第二题按如下要求改进和扩充，实现一个字符串的逆序功能。
+在工作目录中建立aaa.bbb.ccc包，在包ccc中建立一个名为Stack的类，有三个私有成员变量：char[] stk、int pos以及int size，分别表示创建的堆栈、栈顶的索引以及栈的容量大小，写出该类的构造函数、入栈函数void push(int x)、出栈函数int pop(), 取栈顶元素（元素不出栈）函数int peek()以及判断栈是否为空栈的函数void isEmpty()；另外，建立aaa.bbb.rrr包，在包中建立一个字符串逆序类Myreverser,该类包括两个私有数据成员String input和String output,分别表示逆序前和逆序后的字符串，请写出Myreverser类的构造函数public Myreverser(String myinput)以及将字符串逆序函数public String reverse(),实现该逆序函数时要求使用aaa.bbb.ccc包中的Stack的类来做，算法思想是按照堆栈操作的先进后出的原则，将一个字符串的每个字符取出后依次入栈，所有字符都入栈完毕后再将栈中字符依次出栈后连接，即为逆序字符。注意，取字符串中索引为index的字符可以使用系统类库中String类的方法：public char charAt(int index)，具体可以查阅API文档。最后，建立aaa.bbb.ddd包，在ddd包中定义一个测试类MyTest，其中包含主函数，使用Stack类和Myreverser类测试字符串的逆序功能。
+
+第五题：
+在工作目录中建立pka.pkb.pkc包，在包pkc中建立一个名为MyStack<E>的范型堆栈类，有两个私有成员变量：E[] stk和 int pos，分别表示创建的任意大小的堆栈和栈顶的索引，写出该类的构造函数、入栈函数void push(E x)、出栈函数E pop(), 另外，建立pka.pkb.pkd包，在pkd包中定义一个测试类MyTest，其中包含主函数，测试MyStack<E>类的各个方法，测试时要求分别E的取值包括Integer, String以及自己建立的一个类Student(自己任意定义) 。
+
+
+第六题：
+利用jdk提供的类库中的Stack<E>完成上述测试类MyTest的测试要求。
+
+第七题：利用jdk提供的类库中的Scanner类从键盘输入任意一组字符串，要求在字符串的中间位置插入一个字串：hello,使用jdk提供的类库中的StringBuffer类(具体方法请查阅JDK API文档)
+
+
+第八题：利用jdk提供的类库中的ArrayList类建立一个字符串的动态数组，数组中的所有元素要求从键盘输入，数组建立好了以后，要求当输入一个指定的字符串时，在刚才的数组中查找该字符串，如果找到，将该字符串元素删除，如果找不到，则给出提示信息。
+
+ 

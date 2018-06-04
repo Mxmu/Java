@@ -12,109 +12,126 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aaa/bbb/ccc/Queue.java">
+      <file leaf-file-name="MyStack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第四次上机/第五题/pka/pkb/pkc/MyStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringBuffer_.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_20180508_7/StringBuffer_.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayListDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_20180508_8/ArrayListDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="380">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#241#249#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComputeAvg.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ComputeAvg.java">
+      <file leaf-file-name="Mytest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第四次上机/第五题/pka/pkb/pkc/pka/pkb/pkd/Mytest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="152">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExceptionDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_20180522_4/ExceptionDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://F:/java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="652" selection-start-line="652" selection-end-line="652" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Poststudent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_20180508_3/Poststudent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#467#475#0" expanded="true" />
+                <element signature="e#685#694#0" expanded="true" />
+                <element signature="e#1018#1027#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MyTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_20180508_3/MyTest.java">
+        <entry file="file://$PROJECT_DIR$/src/第四次上机/第六题/MyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#437#445#0" expanded="true" />
+                <element signature="e#710#719#0" expanded="true" />
+                <element signature="e#1098#1107#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_20180508_4/aaa/bbb/ccc/Stack.java">
+      <file leaf-file-name="StringBuffer_.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第四次上机/第七题/StringBuffer_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayListDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第四次上机/第八题/ArrayListDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExceptionDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第五次上机/第一题/ExceptionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExceptionDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第五次上机/第一题/第二题/ExceptionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding>
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExceptionDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第五次上机/第一题/第二题二解/ExceptionDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding>
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EceptionDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第五次上机/第一题/第三题/EceptionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExceptionDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/第五次上机/第一题/第四题/ExceptionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -132,48 +149,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sort.java" />
-        <option value="$PROJECT_DIR$/src/Prime.java" />
-        <option value="$PROJECT_DIR$/src/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/Matrix_1.java" />
-        <option value="$PROJECT_DIR$/src/ForEachTest.java" />
-        <option value="$PROJECT_DIR$/src/aaa/bbb/ccc/ddd/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/aaa/bbb/ddd/Queue.java" />
-        <option value="$PROJECT_DIR$/src/aq/bbb/ddd/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/Father1.java" />
-        <option value="$PROJECT_DIR$/src/Son1.java" />
-        <option value="$PROJECT_DIR$/src/FatherSon/Son2.java" />
-        <option value="$PROJECT_DIR$/src/FatherSon/Jc1.java" />
-        <option value="$PROJECT_DIR$/src/FatherSon/Test2.java" />
-        <option value="$PROJECT_DIR$/src/aaa/bbb/eee/Queue.java" />
-        <option value="$PROJECT_DIR$/src/aaa/bbb/fff/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/aaa/bbb/ggg/Queue.java" />
-        <option value="$PROJECT_DIR$/src/aaa/bbb/hhh/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/FatherSon/Son1.java" />
-        <option value="$PROJECT_DIR$/src/aaa/bbb/ddd/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/aaa/bbb/ccc/Queue.java" />
-        <option value="$PROJECT_DIR$/src/_20180508/TransTool.java" />
-        <option value="$PROJECT_DIR$/src/_20180508/Bike.java" />
-        <option value="$PROJECT_DIR$/src/_20180508/Car.java" />
-        <option value="$PROJECT_DIR$/src/_20180508/Bus.java" />
-        <option value="$PROJECT_DIR$/src/_20180508/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/_20180508_2/TransTool.java" />
-        <option value="$PROJECT_DIR$/src/_20180508_2/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/Test1/Test.java" />
-        <option value="$PROJECT_DIR$/src/Test/F2.java" />
-        <option value="$PROJECT_DIR$/src/Test/F1.java" />
-        <option value="$PROJECT_DIR$/src/Test/Son.java" />
-        <option value="$PROJECT_DIR$/src/Test/Test.java" />
-        <option value="$PROJECT_DIR$/src/_20180508_3/Student.java" />
-        <option value="$PROJECT_DIR$/src/_20180508_3/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/_20180508_3/Poststudent.java" />
-        <option value="$PROJECT_DIR$/src/_20180508_3/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/_20180508_4/aaa/bbb/ccc/Stack.java" />
-        <option value="$PROJECT_DIR$/src/_20180508_7/StringBuffer.java" />
-        <option value="$PROJECT_DIR$/src/_20180508_7/StringBuffer_.java" />
-        <option value="$PROJECT_DIR$/src/_20180508_8/ArrayListDemo.java" />
-        <option value="$PROJECT_DIR$/src/ComputeAvg.java" />
+        <option value="$PROJECT_DIR$/src/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/_20180522_2/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/_20180522_2_1/ExceptionDemo.java" />
         <option value="$PROJECT_DIR$/src/_20180522_4/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/_20180508_4/aaa/bbb/ccc/Stack.java" />
+        <option value="$PROJECT_DIR$/src/_20180522_1/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/_20180522_3/EceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/第一章/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/第二章/Variable.java" />
+        <option value="$PROJECT_DIR$/src/第二章/TestparseInt.java" />
+        <option value="$PROJECT_DIR$/src/第二章/Testvalue.java" />
+        <option value="$PROJECT_DIR$/src/第二章/LeapYear.java" />
+        <option value="$PROJECT_DIR$/src/第二章/ArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/第二章/TestTwoDimension.java" />
+        <option value="$PROJECT_DIR$/src/第一次上机/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/第二次上机/Prime.java" />
+        <option value="$PROJECT_DIR$/src/第二次上机/第一题/Prime.java" />
+        <option value="$PROJECT_DIR$/src/第二次上机/第二题/Sort.java" />
+        <option value="$PROJECT_DIR$/src/第二次上机/第三题/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/第三次上机/第一题/Matrix_1.java" />
+        <option value="$PROJECT_DIR$/src/第三次上机/第一题/第二题/ForEachTest.java" />
+        <option value="$PROJECT_DIR$/src/第三次上机/第二题/ForEachTest.java" />
+        <option value="$PROJECT_DIR$/src/第三次上机/第三题/aaa/bbb/ccc/Queue.java" />
+        <option value="$PROJECT_DIR$/src/第三次上机/第三题/aaa/bbb/ccc/aaa/bbb/ddd/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/第三次上机/aaa/bbb/ddd/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/第三次上机/aaa/bbb/ccc/Queue.java" />
+        <option value="$PROJECT_DIR$/src/第三次上机/第四题/Son1.java" />
+        <option value="$PROJECT_DIR$/src/第三次上机/第四题/Father1.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/Bus.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第一题/Bus.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第一题/第二题/TransTool.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第二题/TransTool.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第一题/TransTool.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第三题/Student.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第四题/aaa/bbb/ccc/Stack.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第四题/aaa/bbb/ccc/aaa/bbb/rrr/Myreverser.java" />
+        <option value="$PROJECT_DIR$/src/第四题/aaa/bbb/ccc/Stack.java" />
+        <option value="$PROJECT_DIR$/src/第四题/aaa/bbb/rrr/Myreverser.java" />
+        <option value="$PROJECT_DIR$/src/第四题/aaa/bbb/ccc/rrr/Myreverser.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/ccc/rrr/Myreverser.java" />
+        <option value="$PROJECT_DIR$/src/第四题/rrr/Myreverser.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第五题/pka/pkb/pkc/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第五题/pka/pkb/pkc/pka/pkb/pkd/Mytest.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第六题/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第七题/StringBuffer_.java" />
+        <option value="$PROJECT_DIR$/src/第四次上机/第八题/ArrayListDemo.java" />
+        <option value="$PROJECT_DIR$/src/第五次上机/第一题/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/第五次上机/第一题/第二题/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/第五次上机/第一题/第二题二解/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/第五次上机/第一题/第三题/EceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/第五次上机/第一题/第四题/ExceptionDemo.java" />
       </list>
     </option>
   </component>
@@ -197,8 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,19 +240,25 @@
               <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_20180508_3" type="462c0819:PsiDirectoryNode" />
+              <item name="_20180522_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ccc" type="462c0819:PsiDirectoryNode" />
+              <item name="_20180522_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_20180508_7" type="462c0819:PsiDirectoryNode" />
+              <item name="_20180522_2_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_20180522_3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
@@ -239,39 +270,55 @@
               <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bbb" type="462c0819:PsiDirectoryNode" />
+              <item name="第一题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bbb" type="462c0819:PsiDirectoryNode" />
-              <item name="ccc" type="462c0819:PsiDirectoryNode" />
+              <item name="第一题" type="462c0819:PsiDirectoryNode" />
+              <item name="第三题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bbb" type="462c0819:PsiDirectoryNode" />
-              <item name="ddd" type="462c0819:PsiDirectoryNode" />
+              <item name="第一题" type="462c0819:PsiDirectoryNode" />
+              <item name="第二题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FatherSon" type="462c0819:PsiDirectoryNode" />
+              <item name="第一题" type="462c0819:PsiDirectoryNode" />
+              <item name="第二题二解" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="第一题" type="462c0819:PsiDirectoryNode" />
+              <item name="第四题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="第四次上机" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-school-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-school-book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="第四次上机" type="462c0819:PsiDirectoryNode" />
+              <item name="第七题" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,6 +327,22 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="第五次上机.第一题.第四题" />
+      <recent name="第五次上机.第一题.第三题" />
+      <recent name="第五次上机.第一题" />
+      <recent name="第四次上机.第八题" />
+      <recent name="第四次上机.第七题" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\Java\Java-school-book\src\第五次上机\第一题\第二题二解" />
+      <recent name="D:\git\Java\Java-school-book\src\第五次上机\第一题\第二题" />
+      <recent name="D:\git\Java\Java-school-book\src\第四次上机\第三题" />
+      <recent name="D:\git\Java\Java-school-book\src\第四次上机\第一题\第二题" />
+      <recent name="D:\git\Java\Java-school-book\src\第四次上机\第一题" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -293,52 +356,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionDemo">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_20180508_8.ArrayListDemo" />
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章.ArrayDemo" />
       <module name="Java-school-book" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_20180508_8.*" />
+          <option name="PATTERN" value="第二章.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ComputeAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputeAvg" />
-      <module name="Java-school-book" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_20180522_4.ExceptionDemo" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第一次上机.HelloWorld" />
       <module name="Java-school-book" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_20180522_4.*" />
+          <option name="PATTERN" value="第一次上机.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MyTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_20180508_3.MyTest" />
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章.LeapYear" />
       <module name="Java-school-book" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_20180508_3.*" />
+          <option name="PATTERN" value="第二章.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringBuffer_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_20180508_7.StringBuffer_" />
+    <configuration name="TestTwoDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章.TestTwoDimension" />
       <module name="Java-school-book" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_20180508_7.*" />
+          <option name="PATTERN" value="第二章.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Testvalue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章.Testvalue" />
+      <module name="Java-school-book" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第二章.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,19 +454,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MyTest (1)" />
-      <item itemvalue="Application.StringBuffer_" />
-      <item itemvalue="Application.ArrayListDemo" />
-      <item itemvalue="Application.ComputeAvg" />
-      <item itemvalue="Application.ExceptionDemo" />
+      <item itemvalue="Application.Testvalue" />
+      <item itemvalue="Application.LeapYear" />
+      <item itemvalue="Application.ArrayDemo" />
+      <item itemvalue="Application.TestTwoDimension" />
+      <item itemvalue="Application.HelloWorld" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExceptionDemo" />
-        <item itemvalue="Application.ComputeAvg" />
-        <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.StringBuffer_" />
-        <item itemvalue="Application.MyTest (1)" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.TestTwoDimension" />
+        <item itemvalue="Application.ArrayDemo" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.Testvalue" />
       </list>
     </recent_temporary>
   </component>
@@ -416,44 +485,52 @@
       <workItem from="1525366020693" duration="24000" />
       <workItem from="1525694517615" duration="14446000" />
       <workItem from="1525743767359" duration="7485000" />
-      <workItem from="1526917531515" duration="9033000" />
+      <workItem from="1526917531515" duration="9122000" />
+      <workItem from="1526953206315" duration="8048000" />
+      <workItem from="1527906313514" duration="5954000" />
+      <workItem from="1528102962885" duration="96000" />
+      <workItem from="1528123558321" duration="1689000" />
+      <workItem from="1528126163664" duration="1404000" />
+      <workItem from="1528127571024" duration="17000" />
+      <workItem from="1528127589885" duration="1226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53025000" />
+    <option name="totallyTimeSpent" value="71548000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32890856" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32890856" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26675603" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1641791" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32997763" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39970502" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32890856" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,324 +545,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Prime.java">
+    <entry file="file://$PROJECT_DIR$/src/_20180508_8/ArrayListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="27" selection-start-column="4" selection-end-line="1" selection-end-column="27" />
+        <state relative-caret-position="703">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Matrix_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
-          <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForEachTest.java">
+    <entry file="file://$PROJECT_DIR$/src/checkDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aaa/bbb/ccc/Queue.java">
+    <entry file="file://$PROJECT_DIR$/src/ExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1406">
-          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aaa/bbb/ddd/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1406">
-          <caret line="74" column="1" lean-forward="true" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EscapeRout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HelloApplet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="27" selection-start-column="4" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="31" column="35" lean-forward="true" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForEachTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aaa/bbb/eee/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aaa/bbb/fff/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aaa/bbb/ggg/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aaa/bbb/hhh/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FatherSon/Father1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FatherSon/Son1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FatherSon/Son2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FatherSon/Jc1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FatherSon/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Matrix_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
-          <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aaa/bbb/ddd/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508/TransTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508/Bike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508/Bus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508_2/TransTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508_2/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/F1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/F2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508_3/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508_3/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508_3/Poststudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test1/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508_3/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="95">
+          <caret line="7" column="20" selection-start-line="3" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -796,52 +573,374 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aaa/bbb/ccc/Queue.java">
+    <entry file="file://$PROJECT_DIR$/src/_20180522_1/ExceptionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508_7/StringBuffer_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="652" selection-start-line="652" selection-end-line="652" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_20180508_8/ArrayListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#241#249#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ComputeAvg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="456">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_20180522_4/ExceptionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        <state relative-caret-position="247">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_20180522_2/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_20180522_3/EceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_20180522_2_1/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第一章/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第一章/HelloApplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章/EscapeRout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章/TestparseInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章/Testvalue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章/LeapYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章/ArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二章/TestTwoDimension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第一次上机/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二次上机/第一题/Prime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二次上机/第二题/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第二次上机/第三题/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matrix_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForEachTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第三次上机/第二题/ForEachTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第三次上机/第一题/Matrix_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第三次上机/aaa/bbb/ccc/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第三次上机/第四题/Father1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第二题/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第二题/TransTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第一题/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第一题/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第一题/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第一题/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第一题/TransTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第三题/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四题/rrr/Myreverser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四题/aaa/bbb/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第五题/pka/pkb/pkc/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第五题/pka/pkb/pkc/pka/pkb/pkd/Mytest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#467#475#0" expanded="true" />
+            <element signature="e#685#694#0" expanded="true" />
+            <element signature="e#1018#1027#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第六题/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#437#445#0" expanded="true" />
+            <element signature="e#710#719#0" expanded="true" />
+            <element signature="e#1098#1107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第七题/StringBuffer_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第四次上机/第八题/ArrayListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第五次上机/第一题/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第五次上机/第一题/第二题/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第五次上机/第一题/第二题二解/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第五次上机/第一题/第三题/EceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第五次上机/第一题/第四题/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>

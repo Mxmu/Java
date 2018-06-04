@@ -1,0 +1,13 @@
+第一题： 设计一个程序，不考虑程序代码的算法意义，只要求程序代码可能产生NullPointerException异常、ArithmetricException异常、ArrayIndexOutofBoundException异常以及NubmerFormatException异常，并通过try-catch语句捕获以上各种异常，做不同的处理（显示不同的提示信息）。
+
+第二题： 自定义一个异常类MyException, 重写他toString() 方法，给出个性化的异常显示信息。当从键盘输入一个字符串，当该字符串中包含数字字符时，抛出一个MyException异常，否则不抛出异常。用两种方法完成该题，第一种方法要求异常的抛出和处理在main()函数中实现；第二种方法要求抛出异常和处理异常在不同的函数中处理，也就是在一个函数中抛出异常，但是不处理，在调用该函数的上层函数体中捕获并处理该异常。
+
+
+第三题： 从键盘输入两个数，进行减法运算，当输入的串中包含非数字字符时候，捕获InputMismatchException异常，并进行相应处理。
+
+第四题： 从键盘输入一个字符串放在一个 String类型的变量中，判断这个字符串的第10个字符是否等于‘R’，并且判断这个字符串的第3个到第7个字符的子串的值是否等于整数2014，如果这两个条件成立，显示“it's ok”，否则显示“the value is wrong”. 如果输入的字符串不足10个字符，则发生系统异常StringIndexOutOfBoundsException，如果第3到7个位置的子串不等于整数2014，则发生系统异常NumberFormatException。做相应的异常处理。 
+
+
+
+
+
