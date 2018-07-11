@@ -12,10 +12,25 @@
 
 第四题：
 将上次上机的第二题按如下要求改进和扩充，实现一个字符串的逆序功能。
-在工作目录中建立aaa.bbb.ccc包，在包ccc中建立一个名为Stack的类，有三个私有成员变量：char[] stk、int pos以及int size，分别表示创建的堆栈、栈顶的索引以及栈的容量大小，写出该类的构造函数、入栈函数void push(int x)、出栈函数int pop(), 取栈顶元素（元素不出栈）函数int peek()以及判断栈是否为空栈的函数void isEmpty()；另外，建立aaa.bbb.rrr包，在包中建立一个字符串逆序类Myreverser,该类包括两个私有数据成员String input和String output,分别表示逆序前和逆序后的字符串，请写出Myreverser类的构造函数public Myreverser(String myinput)以及将字符串逆序函数public String reverse(),实现该逆序函数时要求使用aaa.bbb.ccc包中的Stack的类来做，算法思想是按照堆栈操作的先进后出的原则，将一个字符串的每个字符取出后依次入栈，所有字符都入栈完毕后再将栈中字符依次出栈后连接，即为逆序字符。注意，取字符串中索引为index的字符可以使用系统类库中String类的方法：public char charAt(int index)，具体可以查阅API文档。最后，建立aaa.bbb.ddd包，在ddd包中定义一个测试类MyTest，其中包含主函数，使用Stack类和Myreverser类测试字符串的逆序功能。
+在工作目录中建立aaa.bbb.ccc包，在包ccc中建立一个名为Stack的类，有三个私有成员变量：
+char[] stk、int pos以及int size，分别表示创建的堆栈、栈顶的索引以及栈的容量大小，写出该
+类的构造函数、入栈函数void push(int x)、出栈函数int pop(), 取栈顶元素（元素不出栈）函
+数int peek()以及判断栈是否为空栈的函数void isEmpty()；另外，建立aaa.bbb.rrr包，在包中
+建立一个字符串逆序类Myreverser,该类包括两个私有数据成员String input和String output,分
+别表示逆序前和逆序后的字符串，请写出Myreverser类的构造函数public Myreverser(String myinput)以
+及将字符串逆序函数public String reverse(),实现该逆序函数时要求使用aaa.bbb.ccc包中的Stack的类来
+做，算法思想是按照堆栈操作的先进后出的原则，将一个字符串的每个字符取出后依次入栈，所有字符
+都入栈完毕后再将栈中字符依次出栈后连接，即为逆序字符。注意，取字符串中索引为index的字符可以
+使用系统类库中String类的方法：public char charAt(int index)，具体可以查阅API文档。最后，建
+立aaa.bbb.ddd包，在ddd包中定义一个测试类MyTest，其中包含主函数，使用Stack类和Myreverser
+类测试字符串的逆序功能。
 
 第五题：
-在工作目录中建立pka.pkb.pkc包，在包pkc中建立一个名为MyStack<E>的范型堆栈类，有两个私有成员变量：E[] stk和 int pos，分别表示创建的任意大小的堆栈和栈顶的索引，写出该类的构造函数、入栈函数void push(E x)、出栈函数E pop(), 另外，建立pka.pkb.pkd包，在pkd包中定义一个测试类MyTest，其中包含主函数，测试MyStack<E>类的各个方法，测试时要求分别E的取值包括Integer, String以及自己建立的一个类Student(自己任意定义) 。
+在工作目录中建立pka.pkb.pkc包，在包pkc中建立一个名为MyStack<E>的范型堆栈类，
+有两个私有成员变量：E[] stk和 int pos，分别表示创建的任意大小的堆栈和栈顶的索引，
+写出该类的构造函数、入栈函数void push(E x)、出栈函数E pop(), 另外，建立pka.pkb.pkd包，
+在pkd包中定义一个测试类MyTest，其中包含主函数，测试MyStack<E>类的各个方法，测试
+时要求分别E的取值包括Integer, String以及自己建立的一个类Student(自己任意定义) 。
 
 
 第六题：
